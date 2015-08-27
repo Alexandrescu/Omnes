@@ -1,0 +1,19 @@
+{
+  "name": "omnes",
+  "version": "1.0.0",
+  "description": "Our website",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alexandrescu/Omnes.git"
+  },
+  "homepage": "https://alexandrescu.github.com/Omnes",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-typescript": "^2.8.1",
+    "gulp-watch": "^4.3.5",
+    "merge2": "^0.3.6"
+  },
+  "dependencies": {
+    "del": "^1.2.1"
+  }
+}
