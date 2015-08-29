@@ -1,0 +1,19 @@
+{
+  "name": "Omnes",
+  "version": "1.0.0",
+  "homepage": "https://github.com/Alexandrescu/Omnes",
+  "authors": [
+    "Andrei Alexandrescu <andreia@palantir.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "~0.13.3"
+  }
+}

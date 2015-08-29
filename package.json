@@ -8,12 +8,16 @@
   },
   "homepage": "https://alexandrescu.github.com/Omnes",
   "devDependencies": {
+    "graceful-fs": "^4.1.2",
     "gulp": "^3.9.0",
+    "gulp-debug": "^2.1.0",
+    "gulp-inject": "^1.5.0",
     "gulp-typescript": "^2.8.1",
     "gulp-watch": "^4.3.5",
+    "main-bower-files": "^2.9.0",
+    "del": "^1.2.1",
     "merge2": "^0.3.6"
   },
   "dependencies": {
-    "del": "^1.2.1"
   }
 }
